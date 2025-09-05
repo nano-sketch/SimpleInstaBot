@@ -1,6 +1,6 @@
 # SimpleInstaBot 🤖
 
-Use a robot to attract more followers. Now as a simple desktop app!
+### a rewrite of simpleinstabot
 
 [![Demo](./SimpleInstaBot.svg)](https://www.youtube.com/watch?v=xkjOozYU3aA)
 
