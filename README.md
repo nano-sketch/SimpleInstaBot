@@ -2,9 +2,6 @@
 
 ### a rewrite of simpleinstabot
 
-[![Demo](./SimpleInstaBot.svg)](https://www.youtube.com/watch?v=xkjOozYU3aA)
-
-[![Discord](https://img.shields.io/discord/986052713425027072)](https://discord.gg/Rh3KT9zyhj) [![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/mifino/usd)
 
 ## How does it work?
 
@@ -101,38 +98,8 @@ DISPLAY=:0 ./simpleinstabot --no-sandbox
 - Q: Can I run it on multiple accounts at the same time?
 - A: Yes, with the command line argument `--root` (see [multiple accounts](#multiple-accounts))
 
-## Donate 🙈
 
-This project is maintained by me alone. The project will always remain free and open source, but if it's useful for you, consider supporting me. :) It will give me extra motivation to improve it.
-
-[Paypal](https://paypal.me/mifino/usd) | [crypto](https://mifi.no/thanks)
-
-## Credits
-
-Animations by:
-- https://lottiefiles.com/juanmakes
-- https://lottiefiles.com/user/180952
-- https://lottiefiles.com/aanhamdani
 
 Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
 
-## See also
-- https://github.com/mifi/instauto - Programmatic Instagram bot API
-- https://instagrambot.github.io/
-- https://socialmanager.tools/
-- https://gramup.me/
 
-## Releasing
-
-```
-npm version patch && git push && git push --tags
-```
-Wait for github actions and go to https://github.com/mifi/SimpleInstaBot/releases
-
----
-
-Made with ❤️ in [🇳🇴](https://www.youtube.com/watch?v=uQIv8Vo9_Jc)
-
-[More apps by mifi.no](https://mifi.no/)
-
-Follow me on [GitHub](https://github.com/mifi/), [YouTube](https://www.youtube.com/channel/UC6XlvVH63g0H54HSJubURQA), [IG](https://www.instagram.com/mifi.no/), [Twitter](https://twitter.com/mifi_no) for more awesome content!
